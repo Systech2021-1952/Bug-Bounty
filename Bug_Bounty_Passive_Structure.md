@@ -26,3 +26,36 @@ report — and what keeps programs inviting you back.
 -----
 
 🗺 Overview of the Roadmap
+
+This guide walks through the full passive structure in six practical stages, building one on top of the
+other:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
