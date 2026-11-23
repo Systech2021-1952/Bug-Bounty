@@ -1,3 +1,5 @@
 PASSIVE BUG BOUNTY GUIDE 
 
-### BUG BOUNTY
+#### BUG BOUNTY
+
+# Passive Structure
