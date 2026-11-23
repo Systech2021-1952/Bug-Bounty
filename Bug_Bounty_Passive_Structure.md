@@ -12,3 +12,8 @@ the rarest vulnerability class. In reality, the hunters who earn consistently ar
 strong “passive structure” around their technical work.
 
 ⚖ Why Passive Skills Matter More Than Technical Skills
+
+Technical skill helps you find bugs. Passive skill helps you get paid for them, repeatedly, without burning
+out or burning bridges. Many technically gifted hunters fail long-term because of poor scope reading,
+sloppy reports, or unprofessional communication — while disciplined, organized hunters with average
+technical skill build steady, sustainable income.
