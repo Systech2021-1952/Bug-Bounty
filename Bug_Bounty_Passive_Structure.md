@@ -23,4 +23,3 @@ technical skill build steady, sustainable income.
 Finding a vulnerability is only the first step. Choosing the right program, preparing properly,
 documenting clearly, and communicating professionally is what converts a finding into a paid, accepted
 report — and what keeps programs inviting you back.
->
