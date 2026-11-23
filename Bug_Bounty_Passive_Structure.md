@@ -1,1 +1,3 @@
-# Bug-Bounty
+PASSIVE BUG BOUNTY GUIDE 
+
+### BUG BOUNTY
