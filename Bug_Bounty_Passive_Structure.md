@@ -32,7 +32,7 @@ other:
 
 ☑ Stage 1 — Choosing the right platform and program 
 ☑ Stage 2 — Understanding scope and preparing before hunting 
-
+☑ Stage 3 — Organizing your workflow 
 
 
 
