@@ -35,7 +35,7 @@ other:
 ☑ Stage 3 — Organizing your workflow 
 ☑ Stage 4 — Writing high-quality reports 
 ☑ Stage 5 — Communication and reputation 
-
+☑ Stage 6 — The full passive success roadmap 
 
 
 
