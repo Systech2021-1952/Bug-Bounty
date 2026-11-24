@@ -44,7 +44,7 @@ other:
 
 Note: This guide intentionally contains no exploitation techniques, payloads, or vulnerability tutorials. It focuses purely on the professional foundation that supports your technical work. 
 
-
+-----
 
 
 
