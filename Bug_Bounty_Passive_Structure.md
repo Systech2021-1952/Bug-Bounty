@@ -37,7 +37,7 @@ other:
 ☑ Stage 5 — Communication and reputation 
 ☑ Stage 6 — The full passive success roadmap 
 
-
+Note: This guide intentionally contains no exploitation techniques, payloads, or vulnerability tutorials. It focuses purely on the professional foundation that supports your technical work. 
 
 
 
