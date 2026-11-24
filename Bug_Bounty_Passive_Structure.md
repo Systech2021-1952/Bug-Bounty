@@ -30,7 +30,7 @@ report — and what keeps programs inviting you back.
 This guide walks through the full passive structure in six practical stages, building one on top of the
 other:
 
-
+☑ Stage 1 — Choosing the right platform and program 
 
 
 
