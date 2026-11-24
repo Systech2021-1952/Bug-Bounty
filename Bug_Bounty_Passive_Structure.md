@@ -34,7 +34,7 @@ other:
 ☑ Stage 2 — Understanding scope and preparing before hunting 
 ☑ Stage 3 — Organizing your workflow 
 ☑ Stage 4 — Writing high-quality reports 
-
+☑ Stage 5 — Communication and reputation 
 
 
 
