@@ -1,6 +1,14 @@
-PASSIVE BUG BOUNTY GUIDE 
-
-#### BUG BOUNTY
+<table width="100%">
+  <tr>
+    <td align="left">
+      <strong>PASSIVE BUG BOUNTY GUIDE</strong>
+    </td>
+    <td align="right">
+      Non-Technical Skills Edition
+    </td>
+  </tr>
+</table>
+ #### BUG BOUNTY
 
 # Passive Structure
 The Foundation for Consistent Success
