@@ -31,10 +31,15 @@ This guide walks through the full passive structure in six practical stages, bui
 other:
 
 ☑ Stage 1 — Choosing the right platform and program 
+
 ☑ Stage 2 — Understanding scope and preparing before hunting 
+
 ☑ Stage 3 — Organizing your workflow 
+
 ☑ Stage 4 — Writing high-quality reports 
+
 ☑ Stage 5 — Communication and reputation 
+
 ☑ Stage 6 — The full passive success roadmap 
 
 Note: This guide intentionally contains no exploitation techniques, payloads, or vulnerability tutorials. It focuses purely on the professional foundation that supports your technical work. 
