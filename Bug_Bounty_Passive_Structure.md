@@ -1,3 +1,4 @@
+
 <table width="100%">
   <tr>
     <td align="left">
@@ -8,10 +9,19 @@
     </td>
   </tr>
 </table>
- #### BUG BOUNTY
 
-# Passive Structure
-The Foundation for Consistent Success
+<h3 align="left">
+  <font color="#00B894">BUG BOUNTY</font>
+</h3>
+
+<h1 align="left">Passive Structure</h1>
+
+<p align="left">
+  <em>The Foundation for Consistent Success</em>
+</p>
+
+<hr>
+
 -----
 🛡 What Is the Bug Bounty Passive Structure ?
 
