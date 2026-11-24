@@ -22,7 +22,6 @@
 
 <hr>
 
------
 🛡 What Is the Bug Bounty Passive Structure ?
 
 Most beginners think bug bounty success is 100% about hacking skill — finding the cleverest exploit or
