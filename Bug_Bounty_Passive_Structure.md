@@ -1,26 +1,8 @@
+PASSIVE BUG BOUNTY GUIDE  
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <strong>PASSIVE BUG BOUNTY GUIDE</strong>
-    </td>
-    <td align="right">
-      Non-Technical Skills Edition
-    </td>
-  </tr>
-</table>
-
-<h3 align="left">
-  <font color="#00B894">BUG BOUNTY</font>
-</h3>
-
-<h1 align="left">Passive Structure</h1>
-
-<p align="left">
-  <em>The Foundation for Consistent Success</em>
-</p>
-
-<hr>
+#### BUG BOUNTY 
+Passive Structure
+The Foundation for Consistent Success
 
 🛡 What Is the Bug Bounty Passive Structure ?
 
