@@ -31,7 +31,7 @@ This guide walks through the full passive structure in six practical stages, bui
 other:
 
 ☑ Stage 1 — Choosing the right platform and program 
-
+☑ Stage 2 — Understanding scope and preparing before hunting 
 
 
 
