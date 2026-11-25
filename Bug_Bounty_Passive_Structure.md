@@ -49,6 +49,8 @@ Note: This guide intentionally contains no exploitation techniques, payloads, or
 
 🏛 Comparing Bug Bounty Platforms
 
+Your platform choice shapes the type of programs you'll see, payout speed, and community support.
+Here is a simple comparison of well-known platforms:
 
 
 
