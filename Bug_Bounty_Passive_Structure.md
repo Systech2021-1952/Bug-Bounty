@@ -54,7 +54,7 @@ Here is a simple comparison of well-known platforms:
 
 |Platform |Best For |Payout Speed |Community |
 |---|---|---|---|
-
+|HackerOne |Large enterprise programs,variety |Moderate |Very active |
 
 
 
