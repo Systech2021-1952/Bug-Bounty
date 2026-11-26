@@ -58,7 +58,7 @@ Here is a simple comparison of well-known platforms:
 |Bugcrowd |Structured programs, kudos points |Moderate |Active |
 |Intigriti |European companies, fast triage |Fast |Growing |
 |YesWeHack |European/Asian scope, VDPs |Moderate |Moderate |
-
+|Private/VDP |Direct company programs |Varies |Limited |
 
 
 
