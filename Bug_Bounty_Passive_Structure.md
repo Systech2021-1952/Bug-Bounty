@@ -74,7 +74,7 @@ Not all programs are equal. Before committing time, evaluate a program using the
 
 • Duplicate rate — programs with very high traffic often have higher duplicate rates; newer or less popular programs can offer better odds
 
-
+• Program reputation — read public disclosures and hunter reviews where available.
 
 
 
