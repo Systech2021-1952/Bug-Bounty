@@ -72,7 +72,7 @@ Not all programs are equal. Before committing time, evaluate a program using the
 
 • Response & triage time — published average response time indicates how respectful the program is of hunters' time
 
-
+• Duplicate rate — programs with very high traffic often have higher duplicate rates; newer or less popular programs can offer better odds
 
 
 
