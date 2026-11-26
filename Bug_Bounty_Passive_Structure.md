@@ -64,7 +64,7 @@ Here is a simple comparison of well-known platforms:
 
 Not all programs are equal. Before committing time, evaluate a program using these passive (nontechnical) signals:
 
-
+• Scope size — broader scope generally means more opportunity, but also more competition.
 
 
 
