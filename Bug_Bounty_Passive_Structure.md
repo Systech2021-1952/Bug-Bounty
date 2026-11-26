@@ -70,7 +70,7 @@ Not all programs are equal. Before committing time, evaluate a program using the
 
 • Reward structure — check minimum and maximum bounty ranges relative to severity.
 
-
+• Response & triage time — published average response time indicates how respectful the program is of hunters' time
 
 
 
