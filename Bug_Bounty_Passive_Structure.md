@@ -57,7 +57,7 @@ Here is a simple comparison of well-known platforms:
 |HackerOne |Large enterprise programs,variety |Moderate |Very active |
 |Bugcrowd |Structured programs, kudos points |Moderate |Active |
 |Intigriti |European companies, fast triage |Fast |Growing |
-
+|YesWeHack |European/Asian scope, VDPs |Moderate |Moderate |
 
 
 
