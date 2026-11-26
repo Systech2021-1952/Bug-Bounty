@@ -76,8 +76,9 @@ Not all programs are equal. Before committing time, evaluate a program using the
 
 • Program reputation — read public disclosures and hunter reviews where available.
 
-> Quick Comparison Checklist
- ✔ Is the scope clearly defined and reasonably sized?
+-----
+Quick Comparison Checklist
+✔ Is the scope clearly defined and reasonably sized?
 
 
 
