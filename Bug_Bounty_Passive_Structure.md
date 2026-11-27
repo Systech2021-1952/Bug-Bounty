@@ -84,7 +84,7 @@ Quick Comparison Checklist
 ✔ Does the program have a manageable duplicate rate?
 ✔ Does the program have a history of fair, professional triage?
 ```
-
+-----
 
 
 
