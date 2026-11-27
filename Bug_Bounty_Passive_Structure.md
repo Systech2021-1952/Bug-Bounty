@@ -82,7 +82,7 @@ Quick Comparison Checklist
 ✔ Are rewards published and competitive for the asset type?
 ✔ Is the average response/triage time disclosed and reasonable?
 ✔ Does the program have a manageable duplicate rate?
-
+✔ Does the program have a history of fair, professional triage?
 ```
 
 
