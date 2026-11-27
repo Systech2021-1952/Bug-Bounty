@@ -86,7 +86,7 @@ Quick Comparison Checklist
 ```
 -----
 
-
+## Understanding Scope & Preparing Before Hunting
 
 
 
