@@ -80,6 +80,8 @@ Not all programs are equal. Before committing time, evaluate a program using the
 Quick Comparison Checklist
 ✔ Is the scope clearly defined and reasonably sized?
 ✔ Are rewards published and competitive for the asset type?
+✔ Is the average response/triage time disclosed and reasonable?
+
 ```
 
 
